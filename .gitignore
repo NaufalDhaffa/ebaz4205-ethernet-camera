@@ -1,0 +1,18 @@
+# hasil build Vivado / Vitis -- semuanya bisa dibuat ulang
+hw/build/
+sw/workspace/
+sw/dts/
+.Xil/
+*.jou
+*.log
+*.str
+.repo.yaml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# tangkapan dari alat host
+*.raw
+shots/
